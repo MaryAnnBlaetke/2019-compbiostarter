@@ -1,6 +1,8 @@
 # Course Material - International Spring School „Computational Biology Starter“
 powered by [IPK Postdocs](https://www.ipk-gatersleben.de/postdocs/) and [de.NBI](https://www.denbi.de)
 
+[Homepage](https://meetings.ipk-gatersleben.de/compbiostarter/)
+
 01 - [Introduction into Linux and R (Ubuntu, RStudio)](01_introduction_linux_and_r)
 
 02 - [Statistics and Figures (R)](02_statistics_and_figures)
