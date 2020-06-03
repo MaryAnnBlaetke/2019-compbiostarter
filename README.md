@@ -7,7 +7,7 @@ powered by [IPK Postdocs](https://www.ipk-gatersleben.de/postdocs/) and [de.NBI]
 
 02 - [Statistics and Figures (R)](02_statistics_and_figures)
 
-03 - [Introduction into Galaxy and how to design your own analysis workflow](03_galaxy)
+03 - [Introduction into Galaxy and how to design your own analysis workflow](03_ galaxy)
 
 04 - [Applied Phenomics (Image-based data analysis & Visualisation)](04_applied_phenomics)
 
